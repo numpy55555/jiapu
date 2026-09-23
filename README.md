@@ -124,4 +124,4 @@
 - **个人版修谱工作台（免费建谱）**: [https://ai.cnjiapu.com/jiapu](https://ai.cnjiapu.com/jiapu)
 - **机构版修谱系统（AI 修谱师与造字）**: [https://ai.cnjiapu.com/aijiapu](https://ai.cnjiapu.com/aijiapu)
 - **服务商申请与合作后台**: [https://ai.cnjiapu.com/admin](https://ai.cnjiapu.com/admin)
-- **微信小程序移动端**: 微信搜索小程序 **【寻宗】**，随时随地采丁录入。
+- **微信小程序移动端**: 微信搜索小程序 **【寻谱归宗】**，随时随地采丁录入。
